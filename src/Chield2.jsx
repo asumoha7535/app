@@ -24,6 +24,8 @@ function Chield2() {
         <button onClick={handleValues}>Value's</button>
         <button type="submit">this is my nect button</button>
         <p>this is git add for push</p>
+                <button type="submit">this is my  button</button>
+
 
   </div>
   </>
