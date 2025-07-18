@@ -23,6 +23,7 @@ function Chield2() {
     <div>{`values are ${value.map((v)=>v)}`}</div>
         <button onClick={handleValues}>Value's</button>
         <button type="submit">this is my nect button</button>
+        <p>this is git add for push</p>
 
   </div>
   </>
